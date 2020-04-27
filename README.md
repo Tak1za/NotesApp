@@ -2,10 +2,10 @@
 Minimal note taking app inspired by One UI
 
 All Notes:
-![Screenshot_20200428-025755_Notes](https://user-images.githubusercontent.com/18700114/80422699-46d93e80-88fc-11ea-87ae-5a49ace6ff75.jpg)
+![all notes](https://user-images.githubusercontent.com/18700114/80423211-3ffefb80-88fd-11ea-96be-e234d18ebfce.png)
 
 Add Notes:
-![Screenshot_20200428-025815_Notes](https://user-images.githubusercontent.com/18700114/80422758-61131c80-88fc-11ea-9780-7e5ff1bb9cae.jpg)
+![add note](https://user-images.githubusercontent.com/18700114/80423210-3f666500-88fd-11ea-8fa9-ed4ffa212218.png)
 
 Edit Notes:
-![Screenshot_20200428-025803_Notes](https://user-images.githubusercontent.com/18700114/80422747-59537800-88fc-11ea-8fd1-983a9581ba75.jpg)
+![edit note](https://user-images.githubusercontent.com/18700114/80423213-40979200-88fd-11ea-85e3-771526ac4909.png)
